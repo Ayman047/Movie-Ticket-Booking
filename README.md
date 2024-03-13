@@ -24,8 +24,8 @@ The Movie Ticket Booking System is a simple Python program that allows users to 
 
 If you'd like to contribute to the project, please follow these steps:
 
-Fork the repository.
-Create a new branch: git checkout -b feature/your-feature-name.
-Commit your changes: git commit -m "Add your feature".
-Push to the branch: git push origin feature/your-feature-name.
-Open a pull request.
+-Fork the repository.
+-Create a new branch: git checkout -b feature/your-feature-name.
+-Commit your changes: git commit -m "Add your feature".
+-Push to the branch: git push origin feature/your-feature-name.
+-Open a pull request.
