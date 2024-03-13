@@ -20,7 +20,7 @@ The Movie Ticket Booking System is a simple Python program that allows users to 
    git clone https://github.com/your-username/Movie-Ticket-Booking.git
    ```
 
-Contributing  
+### Contributing  
 
 If you'd like to contribute to the project, please follow these steps:
 
